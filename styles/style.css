@@ -95,6 +95,9 @@
         Font-family: var(--font-primary);
         color: var(--blackColor);
         font-size: 0.8rem;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 30px;
         list-style: none;
     }
 }
